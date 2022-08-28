@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/21310111/187091279-4cc813db-aeca-4120-8cd7-20331d6feb19.png)
 
-
 This project is an Azure Function that has the following tasks
 
 -Read the information of the file that is sent from Power Automate.
@@ -12,4 +11,4 @@ This project is an Azure Function that has the following tasks
 
 This project is used by Power Automate to automatically insert information into Business Central.
 
-For more information go to the following link:https://ivansingleton.dev/how-to-read-files-via-sftp-in-business-central/
+For more information go to the following link: https://ivansingleton.dev/how-to-read-files-via-sftp-in-business-central/
