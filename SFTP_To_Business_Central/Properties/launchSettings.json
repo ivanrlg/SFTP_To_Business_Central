@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SFTP_To_Business_Central": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7087",
+      "launchBrowser": false
+    }
+  }
+}
